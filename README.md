@@ -8,8 +8,8 @@ This repository contains the code, data, and results for our ECIR'25 reproducibi
 | --- | --- |
 | [`TRIREnotebook.ipynb`](./TRIREnotebook.ipynb) | Use this notebook to rerun the evaluations |
 | `data/` | Contains the data used in this work |
-| [`Sessiondata.ipynb`](./data/driventodistraction_sessiondata.csv) | Data from the original experiment by Azzopardi et al.[^1] Averaged values for each session. |
-| [`Userdata.ipynb`](./data/userdata_categories.csv) | Userdata from the original experiment by Azzopardi et al.[^1] Usernames and respective categories for the different characteristics. |
+| [`Sessiondata.csv`](./data/driventodistraction_sessiondata.csv) | Data from the original experiment by Azzopardi et al.[^1] Averaged values for each session. |
+| [`Userdata.csv`](./data/userdata_categories.csv) | Userdata from the original experiment by Azzopardi et al.[^1] Usernames and respective categories for the different characteristics. |
 | `data/splits/` | Contains the random and stratified splits to rerun the evaluation |
 
 
